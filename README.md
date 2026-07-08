@@ -1,4 +1,6 @@
-# EcoMatch
+# Eco Match
+
+### Real-Time Captions in Your Browser
 
 Project for the 2025 TSA National Competition.
 
@@ -10,7 +12,10 @@ As more and more electric vehicles are hitting the market, it can be overwhelmin
 
 Our project utilizes a large database and a short but efficient quiz to help customers find the perfect EV car for them in less than two minutes.
 
+---
 
+## Open the App
 
+Click or copy and paste the link below into your browser.
 
-__ If you encounter any issues running the Quiz on your local machine, please make sure you are using a local web server, such as the Live Server option in VS Code. __
+https://eshunb.github.io/Project.EcoMatch/
